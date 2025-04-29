@@ -1,3 +1,3 @@
-# SCRIPT IS CURRENTLY UNAVAIBLE
+# SCRIPT IS CURRENTLY UNAVAILABLE
 # Synpet
 mostly patched, but idgaf
