@@ -1,6 +1,6 @@
 > [!NOTE]
-> Script is currently unreleased yet, so please be patient!
-> Also, i don't have any obfuscators that i could use so this'll probably never be released lmao.
+> Script is currently in beta test!
+> Also, the current obfusecator i used is ass.
 
 # 🌠 Synpet
 ## Synpet is a Roblox script that supports currently 2 games
