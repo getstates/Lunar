@@ -1,6 +1,6 @@
 > [!NOTE]
-> Script is currently in beta test!
-> Also, the current obfusecator i used is ass.
+> Script is currently in beta test!\
+> Also, the current obfuscator i used is ass.
 
 # 🌠 Synpet
 ## Synpet is a Roblox script that supports currently 2 games
