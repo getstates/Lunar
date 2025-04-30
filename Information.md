@@ -3,7 +3,7 @@
 > Also, i don't have any obfuscators that i could use so this'll probably never be released lmao.
 
 # 🌠 Synpet
-## Synpet is a Roblox script that supports currently 2 games\
+## Synpet is a Roblox script that supports currently 2 games
 ## Those games are:
 ```
 🏡 Brookhaven (50% Done)
