@@ -6,7 +6,7 @@
 ## Synpet is a Roblox script that supports currently 2 games
 ## Those games are:
 ```
-🏡 Brookhaven (50% Done)
+🏡 Brookhaven (45% Done) (Wolfpaq patched half of the script)
 🌠 Bubblegum Simulator Infinity (1% Done)
 ```
 # 💲 Synpet versions
