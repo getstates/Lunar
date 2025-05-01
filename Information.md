@@ -13,6 +13,6 @@
 ## Current versions: Free, ~~Paid~~
 ## Free has limited access to some of our features, on the other hand paid has unlimited access to our features.
 # 👑 Synpet owners
-## Synpet is owned by: Match, and Kyr3x
+## Synpet is owned by: Match, and Valp
 # ✨ Preview of our script:
 ## lmao not yet.
