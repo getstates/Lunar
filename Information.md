@@ -1,6 +1,6 @@
 > [!NOTE]
 > Script is currently in beta test!\
-> Also, the current obfuscator i used is ass.
+> I can't fix the refresh player issue, since Fluent Library doesn't have the option to update the table.
 
 # 🌠 Synpet
 Synpet is a Roblox script that supports currently 2 games\
@@ -11,8 +11,8 @@ Those games are:
 ```
 # 💲 Synpet versions
 Current versions: Free, ~~Paid~~\
-Free has limited access to some of our features, on the other hand paid has unlimited access to our features.
+Paid isn't here yet, since its not 100% done.
 # 👑 Synpet owners
-Synpet is owned by: Match, and Valp(He ain't do shit)
+Synpet is owned by: Match.
 # ✨ Preview of our script:
-lmao not yet.
+S O O N
