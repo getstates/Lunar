@@ -14,6 +14,7 @@ local TextLabel_4 = Instance.new("TextLabel")
 Notification.Name = "if not synpet then return end"
 Notification.Parent = game.CoreGui.RobloxGui
 Notification.ResetOnSpawn = false
+Notification.DisplayOrder = 999
 
 Frame.Parent = Notification
 Frame.AnchorPoint = Vector2.new(0.5, 0.5)
