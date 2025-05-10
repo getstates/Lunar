@@ -14,6 +14,6 @@ Those games are:
 Current versions: Free, ~~Paid~~\
 Paid isn't here yet, since its not 100% done.
 # 👑 Synpet owners
-Synpet is owned by: Match.
+Synpet is owned by: Nxtio.
 # ✨ Preview of our script:
 S O O N
