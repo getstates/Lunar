@@ -11,8 +11,9 @@ function nxlib:Window(Title)
 	local Window = {}
 	local UI = {}
 
-	UI["1"] = Instance.new("ScreenGui", game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"))
+	UI["1"] = Instance.new("ScreenGui", game.CoreGui)
 	UI["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling
+	UI["1"]["DisplayOrder"] = 99
 
 	UI["2"] = Instance.new("Frame", UI["1"])
 	UI["2"]["BorderSizePixel"] = 0
