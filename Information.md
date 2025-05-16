@@ -1,7 +1,10 @@
+> [!CAUTION]
+> You can be **BANNED** at any times using scripts like this.\
+> Use this script with caution.\
+
 > [!NOTE]
 > Script is currently in beta test!\
-> I can't fix the refresh player issue, since Fluent Library doesn't have the option to update the table.\
-> Also ignore the big ass file size, its my obfuscator that makes it big and adds too much junk variables.
+> Also use this script on an alt account.
 
 # 🌠 Synpet
 Synpet is a Roblox script that supports currently 2 games\
