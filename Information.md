@@ -15,8 +15,8 @@ Those games are:
 ```
 # 💲 Synpet versions
 Current versions: Free, ~~Paid~~\
-Paid isn't here yet, since its not 100% done.
+Paid isn't here **yet**, since its **not 100% done.**
 # 👑 Synpet owners
-Synpet is owned by: Nxtio (AKA urbanfatee).
+Synpet is owned by: Nxtio (AKA **urbanfatee**).
 # ✨ Preview of our script:
 S O O N
