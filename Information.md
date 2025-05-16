@@ -1,6 +1,6 @@
 > [!CAUTION]
 > You can be **BANNED** at any times using scripts like this.\
-> Use this script with caution.\
+> Use this script with caution.
 
 > [!NOTE]
 > Script is currently in beta test!\
