@@ -11,8 +11,8 @@
 Lunar is a Roblox script that supports currently 2 games\
 Those games are:
 ```
-🏡 Brookhaven (65% Done) (Wolfpaq patched half of the script)
-🌠 Bubblegum Simulator Infinity (32% Done)
+🏡 Brookhaven [DISCONTINUED]
+🌠 Bubblegum Simulator Infinity [DISCONTINUED]
 ```
 # 💲 Lunar versions
 Current versions: Free, ~~Paid~~\
