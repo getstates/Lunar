@@ -1,1 +1,1 @@
-print("This script is now discountinued, sorry everyone. :)")
+print("This script is now discontinued, sorry everyone. :)")
