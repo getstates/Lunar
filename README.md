@@ -10,7 +10,7 @@ Every bugs, exploits, and bypasses i've found for the game, its all patched with
 Its really sad and demotivating that everything in my script get patched at one
 # Final message to all of you guys
 Thanks for using my scripts, even though its not fully done some of you guys use it.\
-Its really fun seeing you guys using my scripts at different games.\
+Its really fun seeing you guys using my scripts at different games.
 
 Goodbye.
 - Zxne (AKA urbanfatee).
