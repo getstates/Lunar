@@ -1,6 +1,6 @@
 # Hello everybody.
 I've lost all my motivation on creating script for games like Brookhaven and BGSI.\
-I will continue with a whole different game, such as Grow A Garden, Life In Prison(not prison life), and so much more.\
+I will continue with a whole different game, such as Grow A Garden, and so much more.\
 For now, i'll say goodbye to this script and to all of you guys. Maybe i will comeback soon. But not now :)
 # What will happend in the future?
 As i stated before, this script hub will be reworked and rebranded.
