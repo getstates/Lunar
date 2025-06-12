@@ -3,7 +3,7 @@ I've lost all my motivation on creating script for games like Brookhaven and BGS
 I will continue with a whole different game, such as Grow A Garden, and so much more.\
 For now, i'll say goodbye to this script and to all of you guys. Maybe i will comeback soon. But not now :)
 # What will happend in the future?
-As i stated before, this script hub will be reworked and rebranded.
+As i stated before, this script hub will be reworked.
 # What de-motivates me from making script for RP/Clicker games?
 Its really not that much, what demotivates me from updating my script is the owner patching everything.\
 Every bugs, exploits, and bypasses i've found for the game, its all patched within 2-3 weeks/months.\
