@@ -304,7 +304,7 @@ local function selfEdit()
 	local gameName = Frame.CurrentGame.GameName.Text
 	local loadScript = Frame.CurrentGame.LoadScript
 	local closeScript = Frame.CurrentGame.Close
-	local lua = string.format("https://raw.githubusercontent.com/zxnyv/Lunar/refs/heads/main/Games/%s.lua", placeId)
+	local lua = string.format("https://raw.githubusercontent.com/getstates/Lunar/refs/heads/main/Games/%s.lua", placeId)
 	Frame.CurrentGame.GameImage.Image = "https://assetgame.roblox.com/Game/Tools/ThumbnailAsset.ashx?aid="..placeId.."&fmt=png&wd=420&ht=420"
 	gameName.Text = string.format("%s", game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name)
 	
