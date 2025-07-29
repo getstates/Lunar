@@ -1,0 +1,1 @@
+local a=table;local b=table.concat;local c=math.random;if(not(c==-1))then;return("Im just wasting your time dumbass.");end
