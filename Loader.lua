@@ -387,7 +387,7 @@ local function selfEdit()
 	end)
 	
 	local function ls()
-		addSupport("🍅 Grow A Garden")
+		addSupport("⚔ 99 Nights in the Forest")
 	end
 	
 	ls()
